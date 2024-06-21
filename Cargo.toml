@@ -5,6 +5,7 @@ members = [
     "bindings/nostr-sdk-ffi",
     "bindings/nostr-sdk-js",
     "bindings/uniffi-bindgen",
+    "bindings/nostr_ex/native/nostr_ex",
     "crates/*",
 ]
 exclude = [
